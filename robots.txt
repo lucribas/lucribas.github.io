@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /search
+Crawl-delay: 2
+Clean-param: ref /articles/
+Sitemap: https://lucribas.github.io/sitemap.xml
+Host: https://lucribas.github.io
