@@ -32,9 +32,16 @@ With Gridsome offering a plugin-rich ecosystem, there are a few key plugins that
 
 ## Install
 
+### Pre requisites
+
+`nvm i 14.12.0`
+`nvm use 14.12.0`
+
+
 ### 1. Install Gridsome CLI tool if you don't have
 
 `npm install --global @gridsome/cli`
+`npm install --global gh-pages`
 
 ### 2. Create a Gridsome project
 
@@ -42,3 +49,11 @@ With Gridsome offering a plugin-rich ecosystem, there are a few key plugins that
 2. `cd my-blog` to open the folder
 3. `gridsome develop` to start a local dev server at `http://localhost:8080`
 4. Happy coding 🎉🙌
+
+
+### 3. Running a local server
+`gridsome develop`
+
+### 4. Publish in github
+`npm run build`
+`gh-pages -d dist`
