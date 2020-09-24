@@ -1,1 +1,1 @@
-{"hash":"acbeef14680cccd7a68391500c55c53a6332cd5e","data":{"records":{"id":"python","title":"python","belongsTo":{"totalCount":1,"pageInfo":{"totalPages":1,"currentPage":1},"edges":[{"node":{"__typename":"Resource"}}]}}},"context":{}}
+{"hash":"2a2ad8a33db1e54897b8526a65faeebaff0756c4","data":{"records":{"id":"python","title":"python","belongsTo":{"totalCount":1,"pageInfo":{"totalPages":1,"currentPage":1},"edges":[{"node":{"__typename":"Resource"}}]}}},"context":{}}
